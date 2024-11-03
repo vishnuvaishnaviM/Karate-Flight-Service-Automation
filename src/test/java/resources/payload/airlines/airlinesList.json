@@ -1,0 +1,20 @@
+[
+    {
+        "name": "India Airways",
+        "country": "India",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Qatar_Airways_Logo.svg/india.png",
+        "slogan": "From India",
+        "head_quaters": "Katunayake, India",
+        "website": "www.indiaaairways.com"
+    },
+    
+    {
+        "name": "Sri Lankan Airways",
+        "country": "Sri Lanka",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Qatar_Airways_Logo.svg/sri_lanka.png",
+        "head_quaters": "Katunayake, Sri Lanka",
+        "website": "www.srilankaaairways.com",
+        "established": "1990"
+    }
+    
+]
